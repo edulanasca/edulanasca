@@ -1,29 +1,28 @@
-## Hi there 👋, I'm Eduardo Lanasca
+<h1>Hi 👋, I'm Eduardo Lanasca</h1>
 
-#### Software Engineer open to any oportunity, currently focused on web3 development in Solana.
+<h3>Software Engineer open to any oportunity, currently focused on web3 development in Solana.</h3>
 
 <a href="https://www.instagram.com/lenguajeprogramador/">
-	<img src="https://img.shields.io/badge/Lenguaje Programador-+30k-blueviolet?style=flat&logo=instagram"/>
+	<img src="https://img.shields.io/badge/Lenguaje Programador-+30k-blueviolet?style=flat&logo=instagram" alt="Lenguaje Programador instragram"/>
 </a>
 <a href="https://edulanasca.hashnode.dev/">
-	<img src="https://img.shields.io/badge/Blog-passing-success?style=flat&logo=hashnode"/>
+  <img src="https://img.shields.io/badge/Blog-passing-success?style=flat&logo=hashnode" alt="Edu Blog"/>
 </a>
 <a href="https://github.com/edulanasca/edulanasca">
-  <img src="https://komarev.com/ghpvc/?username=edulanasca" alt="page views" />
- </a>
+  <img src="https://komarev.com/ghpvc/?username=edulanasca" alt="page views"/>
+</a>
 
 <br>
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=edulanasca&count_private=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=edulanasca&count_private=true" alt="github status"/>
 </a>
 
 - 👨‍💻 I have experience building APIs with **Spring Boot** and **MongoDB**
 - 👨‍🔬 I’m currently learning 
 	- **Rust**, bye bye dangling references 📈
 	- **React** and all that comes with it **Redux**, **Router**, **MUI** 🤓
-
 <br>
 <br>
 <h1></h1>
