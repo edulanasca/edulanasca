@@ -21,8 +21,8 @@
 
 - 👨‍💻 I have experience building APIs with **Spring Boot** and **MongoDB**
 - 👨‍🔬 I’m currently learning 
-	- **Rust**, bye bye dangling references 📈
-	- **React** and all that comes with it **Redux**, **Router**, **MUI** 🤓
+	- **Cryptography**, it's really interesting.
+	- **Solidity**, going multichain. 🤓
 <br>
 <br>
 <h1></h1>
