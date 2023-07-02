@@ -19,10 +19,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=edulanasca&count_private=true" alt="github status"/>
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edulanasca)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👨‍💻 I have experience building APIs with **Spring Boot** and **MongoDB**
-- 👨‍🔬 I’m currently learning 
-	- **Cryptography**, it's really interesting.
-	- **Solidity**, going multichain. 🤓
+- 👨‍🔬 I’m currently exploring DeFi ecosystem and use cases also expanding my Rust knowledge.
 <br>
 <br>
 <h1></h1>
